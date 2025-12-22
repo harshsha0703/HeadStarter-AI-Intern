@@ -1,14 +1,11 @@
 # Pantry Tracker
 
-AI-powered web application for searching recipes, managing a cart,
-and placing orders using pantry items.
+AI-powered recipe and shopping cart application.
 
-### Features
-- AI-generated recipe suggestions using OpenAI
-- Cart management with React Hooks
-- RESTful API routes using Next.js
-- Firebase Firestore for data storage
-- Deployed with Vercel
+## Tech Stack
+Next.js, React, Firebase, OpenAI, Material UI
 
-### Tech
-React, Next.js, Firebase, OpenAI, Material UI
+## Features
+- AI recipe generation
+- Cart state management
+- RESTful API
